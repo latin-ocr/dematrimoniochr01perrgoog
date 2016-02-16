@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dematrimoniochr01perrgoog_0013.png"; bbox 0 0 960 1433; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 126 82 752 658">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 126 82 752 658">
+     <span class='ocr_line' id='line_1_1' title="bbox 126 82 752 658; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 126 82 603 658; x_wconf 95' lang='lat' dir='ltr'>     </span> <span class='ocrx_word' id='word_1_2' title='bbox 642 541 752 658; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 193 248 626 444">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 193 248 626 444">
+     <span class='ocr_line' id='line_1_2' title="bbox 193 248 626 342; baseline -0.005 -3"><span class='ocrx_word' id='word_1_3' title='bbox 193 248 626 342; x_wconf 70' lang='lat' dir='ltr'>mofflfl&#39;rt·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 278 401 561 444; baseline -0.004 -3"><span class='ocrx_word' id='word_1_4' title='bbox 278 401 542 444; x_wconf 62' lang='lat' dir='ltr'>omm&#39;l’fflfluss</span> <span class='ocrx_word' id='word_1_5' title='bbox 554 410 561 440; x_wconf 69' lang='grc' dir='ltr'><strong><em>ν</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 197 570 642 600">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 197 570 642 600">
+     <span class='ocr_line' id='line_1_4' title="bbox 197 570 642 600; baseline -0.007 -4"><span class='ocrx_word' id='word_1_6' title='bbox 197 570 304 596; x_wconf 62' lang='lat' dir='ltr'>misma</span> <span class='ocrx_word' id='word_1_7' title='bbox 317 570 476 600; x_wconf 60' lang='lat' dir='ltr'>³1⁴!anOE</span> <span class='ocrx_word' id='word_1_8' title='bbox 494 573 521 595; x_wconf 81' lang='lat' dir='ltr'><strong><em>m</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 539 575 605 595; x_wconf 65' lang='lat' dir='ltr'>nnus</span> <span class='ocrx_word' id='word_1_10' title='bbox 623 578 642 591; x_wconf 67' lang='lat' dir='ltr'>-v</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
